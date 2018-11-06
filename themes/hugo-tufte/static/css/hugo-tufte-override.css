@@ -1,3 +1,12 @@
+@font-face {
+	font-family: "Equity Text A";
+	src: url("/fonts/Equity Text A Regular.otf");
+}
+
+html, button, input, select, textarea, p, nav, section, article, header, footer, .pure-g [class*="pure-u"] {
+    font-family: "Equity Text A", -apple-system, "San Francisco", "Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Open Sans","Helvetica Neue", "Lucida Grand", sans-serif;
+}
+
 body {
 	background: #000;
 	background-image: url("WavesDark.jpg");
