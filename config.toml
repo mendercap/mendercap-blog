@@ -5,3 +5,4 @@ theme = "hugo-tufte"
 
 [params]
   copyrightHolder = "Michael Chumak"
+  subtitle = "A hobby blog by Mendercap and friends"

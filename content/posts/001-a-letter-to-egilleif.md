@@ -1,8 +1,9 @@
 ---
 title: "A Letter to Egilleif"
-date: 2018-11-04T20:04:02+11:00
+date: 2018-11-06
 draft: false
 author: "Michael Chumak"
+type: post
 ---
 
 ![Letter pages](/images/ALetterToEgilleif.Combined.jpg)

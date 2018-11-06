@@ -22,9 +22,15 @@ a:link {
 	background: none;
 }
 
-header.brand h1 {
+header.brand h1,
+header.brand h2 {
 	/*color: #aaa;*/
 	color: #fff;
+}
+
+header.brand h2 {
+	font-size: 1.2rem;
+	margin-top: 1rem;
 }
 
 a:hover,
@@ -46,4 +52,13 @@ img {
 	border-radius: 1px;
 	border-width: 1px;
 	border-color: #fff;
+}
+
+.content-meta,
+.content-meta .author {
+	color: #fff;
+}
+
+footer.page-footer {
+	color: #fff;
 }
