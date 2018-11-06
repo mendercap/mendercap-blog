@@ -5,6 +5,8 @@ draft: false
 author: "Michael Chumak"
 ---
 
+![Letter pages](/images/ALetterToEgilleif.Combined.jpg)
+
 Greetings, Egilleif,
 
 I hope this letter finds you well.
