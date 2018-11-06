@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://hungry-benz-1fa7b3.netlify.com/"
 languageCode = "en-us"
 title = "The Mendercap Missives"
 theme = "hugo-tufte"
