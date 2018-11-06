@@ -13,7 +13,7 @@ h2,
 h3,
 a,
 a:link {
-  color: #fff;
+  color: #F6F4E7;
   text-shadow: none;
 }
 
@@ -30,7 +30,7 @@ header.brand h1 {
 a:hover,
 h1.content-title a:hover,
 header.brand a:hover {
-    color: #ABC2AB;
+    color: #4D8E96;
 }
 
 .sidenote, .marginnote {
