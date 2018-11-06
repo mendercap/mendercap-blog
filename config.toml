@@ -1,4 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Menderbee’s Blog"
-theme = "tale-hugo"
+title = "The Mendercap Missives"
+theme = "hugo-tufte"
+
+[params]
+  copyrightHolder = "Michael Chumak"

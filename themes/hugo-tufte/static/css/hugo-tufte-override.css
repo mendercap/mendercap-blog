@@ -1,0 +1,22 @@
+body {
+	background: #000;
+	background-image: url("WavesBlurred.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+body,
+h1,
+h2,
+h3,
+a,
+a:link {
+  color: #fff;
+  text-shadow: none;
+}
+
+header.brand h1 {
+	color: #aaa;
+}
