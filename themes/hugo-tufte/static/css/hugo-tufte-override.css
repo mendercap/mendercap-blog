@@ -40,3 +40,10 @@ h1.content-title {
 .sidenote, .marginnote {
 	color: #fff;
 }
+
+img {
+	border-style: solid;
+	border-radius: 1px;
+	border-width: 1px;
+	border-color: #fff;
+}

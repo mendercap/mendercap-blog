@@ -22,3 +22,5 @@ You may have guessed at the favour I would ask of you. I have managed to barter 
 For I swear on this iron torque: I will find my son. To ask forgiveness. To take him home. And should he say no, to make a new home, as close as he would let me.{{% marginnote "mn-example" %}}_Background vow (extreme): I will find my son and ask forgiveness._{{% /marginnote%}}
 
 —Mosul
+
+![Iron torque](/images/Torque.JPG)
