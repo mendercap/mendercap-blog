@@ -19,6 +19,6 @@ A friend saw my grief and offered me passage to the Ironlands. After a month at 
 
 You may have guessed at the favour I would ask of you. I have managed to barter for the services of a raven keeper in the fishing town of Fargrave in hope that you may lend your Augury to my quest.
 
-For I swear on this iron torque: I will find my son. To ask forgiveness. To take him home. And should he say no, to make a new home, as close as he would let me.
+For I swear on this iron torque: I will find my son. To ask forgiveness. To take him home. And should he say no, to make a new home, as close as he would let me.{{% marginnote "mn-example" %}}_Background vow (extreme): I will find my son and ask forgiveness._{{% /marginnote%}}
 
 —Mosul

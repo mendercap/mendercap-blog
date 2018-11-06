@@ -17,6 +17,22 @@ a:link {
   text-shadow: none;
 }
 
+a:link {
+	text-decoration: none;
+	background: none;
+}
+
 header.brand h1 {
-	color: #aaa;
+	/*color: #aaa;*/
+	color: #fff;
+}
+
+a:hover,
+h1.content-title a:hover,
+header.brand a:hover {
+    color: #ABC2AB;
+}
+
+.sidenote, .marginnote {
+	color: #fff;
 }
