@@ -23,4 +23,4 @@ For I swear on this iron torque: I will find my son. To ask forgiveness. To take
 
 —Mosul
 
-![Iron torque](/images/Torque.JPG)
+![Iron torque](/images/Torque.jpg)
