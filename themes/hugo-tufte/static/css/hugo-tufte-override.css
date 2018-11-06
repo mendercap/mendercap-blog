@@ -33,6 +33,10 @@ header.brand a:hover {
     color: #4D8E96;
 }
 
+h1.content-title {
+    color: #DEE3C1;
+}
+
 .sidenote, .marginnote {
 	color: #fff;
 }
