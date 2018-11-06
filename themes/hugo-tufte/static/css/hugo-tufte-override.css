@@ -22,13 +22,13 @@ a:link {
 	background: none;
 }
 
-header.brand h1,
-header.brand h2 {
+header.brand h1 {
 	/*color: #aaa;*/
-	color: #fff;
+	color: #4D8E96;
 }
 
 header.brand h2 {
+	color: #fff;
 	font-size: 1.2rem;
 	margin-top: 1rem;
 }
@@ -36,11 +36,11 @@ header.brand h2 {
 a:hover,
 h1.content-title a:hover,
 header.brand a:hover {
-    color: #4D8E96;
+    color: #DEE3C1;
 }
 
 h1.content-title {
-    color: #DEE3C1;
+    color: #4D8E96;
 }
 
 .sidenote, .marginnote {
