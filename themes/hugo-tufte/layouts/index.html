@@ -8,7 +8,7 @@
 	  {{ partial "content.header.html" . }}
 	  <p>{{ .Summary }}</p>
 	  {{ if .Truncated }}
-	  <p><a href="{{ .RelPermalink  }}">Read on &rarr;</a></p>
+	  <p><a href="{{ .RelPermalink  }}"><span class="read-on-arrow">read on &rarr;</span></a></p>
       {{ end  }}
   {{ end }}
 {{ end  }}

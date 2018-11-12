@@ -90,3 +90,8 @@ footer.page-footer hr {
 	border-color: #4D8E96;
 	background-color: #4D8E96;
 }
+
+.read-on-arrow {
+	font-variant: small-caps;
+	color: #4D8E96;
+}
