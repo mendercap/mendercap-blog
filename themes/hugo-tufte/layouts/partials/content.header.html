@@ -12,7 +12,12 @@
   <span class="content-meta">
     {{ if .Params.author }}
        <i class="fa fa-user">&nbsp;</i><span class="author">
-         &nbsp;{{ .Params.author }}</span> <br>
+         &nbsp;{{ .Params.author }}</span> 
+
+         {{ if .Params.guestpost }}
+      <span class="guestpost">guest post</span>
+    {{ end }}
+          <br>
     {{ end }}
 
 

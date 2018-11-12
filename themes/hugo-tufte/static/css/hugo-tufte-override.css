@@ -79,3 +79,14 @@ footer.page-footer hr {
 	border-color: rgba(250, 250, 250, 0.45);
 	width: 15%;
 }
+
+.guestpost {
+	font-variant: small-caps;
+	font-weight: bold;
+	padding: 0 1rem 0 1rem;
+	border-style: solid;
+	border-radius: 1px;
+	border-width: 1px;
+	border-color: #4D8E96;
+	background-color: #4D8E96;
+}
