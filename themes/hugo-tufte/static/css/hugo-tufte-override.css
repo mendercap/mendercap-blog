@@ -19,12 +19,17 @@ body {
 body,
 h1,
 h2,
-h3,
-a,
-a:link {
+h3 {
   color: #F6F4E7;
   text-shadow: none;
 }
+
+a,
+a:link {
+	color: #4D8E96;
+	text-shadow: none;
+}
+
 
 a:link {
 	text-decoration: none;
@@ -93,5 +98,14 @@ footer.page-footer hr {
 
 .read-on-arrow {
 	font-variant: small-caps;
+	color: #4D8E96;
+}
+
+.footer-nav {
+	font-variant: small-caps;
+	text-transform: lowercase;
+}
+
+.footer-nav a {
 	color: #4D8E96;
 }

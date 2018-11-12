@@ -8,6 +8,17 @@
 {{ partial "toc.html" . }}
 <section>{{ .Content }}</section>
 <section>
+  <span class="footer-nav"><a href="{{ .Site.BaseURL }}">Home</a></span> /
+  {{ if .PrevInSection }}
+      <span class="footer-nav"><a href="{{ .PrevInSection.Permalink }}">Previous Entry</a></span> /
+  {{ end }}
+  {{ if .NextInSection }}
+      <span class="footer-nav"><a href="{{ .NextInSection.Permalink }}">Next Entry</a></span>
+  {{ else }}
+    <span class="footer-nav">To be continued</span>
+  {{ end }}
+</section>
+<section>
   {{ partial "footer.html" . }}
 </section>
 </article>
