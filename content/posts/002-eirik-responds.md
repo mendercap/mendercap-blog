@@ -15,7 +15,7 @@ You do not know me, I am Egilleif’s son. It grieves me to hear of the misfortu
 
 My grandfather fled during the invasion when the Skulde conquered the Kallekot Peninsular, narrowly escaping with his life. It seems that I and my grandfather share similar fates. Like carrion birds, the Jarl of Swordlake Isles has assailed my home, slaughtered my father and mother, and has unjustly seized the lands of my family. This is reason I respond in place of Egilleif, for she is no longer in the realm of the living.
 
-Having been forced to flee due to my rightful claim on farming lands, I write this letter whilst sailing to Deepwater, a trading port settlement in the southern bay of the Ragged Coast. On the heirloom of my forefathers I have sworn a vow of vengeance against those that murdered my family and shall return one day to the Swordlake Isles to make good on that oath.
+Having been forced to flee due to my rightful claim on farming lands, I write this letter whilst sailing to Deepwater, a trading port settlement in the southern bay of the Ragged Coast. On the heirloom of my forefathers I have sworn a vow of vengeance against those that murdered my family and shall return one day to the Swordlake Isles to make good on that oath.{{% marginnote "mn-example" %}}_Background vow (epic): Eradicate the current Jarl of Swordlake and his kith._{{% /marginnote%}}
 
 I would beseech you to take heed of your surroundings whilst in the Ironlands. This land has no grand and majestic cities of the old world. We are on a frontier, resources are scarce, settlements are small and the law is written by the one that can enforce it.
 
