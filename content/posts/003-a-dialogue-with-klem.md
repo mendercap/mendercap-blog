@@ -47,7 +47,7 @@ Klem barked with laughter.
 
 "A seamstress's son, soon to be our king. Listen, if you want off this island, visit the docks and start talking to the people. There should be more than a few souls willing to brave an escape before Traevor starves us all."
 
-"What about you, Klem? With the lockdown in place, you and your birds are about the only thread we have to the other islands. It seems likely this thief would try to contact an accomplice."{{% marginnote "mn-example" %}}_Compel (heart, bond): weak hit_{{% /marginnote%}}
+"What about you, Klem? With the place on lockdown, you and your birds are about the only thread we have to the other islands. It seems likely this thief would try to contact an accomplice."{{% marginnote "mn-example" %}}_Compel (heart, bond): weak hit_{{% /marginnote%}}
 
 The unspoken question brings the conversation to a standstill.
 
