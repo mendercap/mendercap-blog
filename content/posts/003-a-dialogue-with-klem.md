@@ -13,7 +13,11 @@ The following is an excerpt from the dialogue between Mosul and Klem, the raven 
 ---
 
 
-"The letter I received yesterday—the Augur I told you about is dead. Butchered. Her son sent the missive in her stead. He wishes luck but doesn't possess his mother's gift."
+"The letter I received yesterday—do you remember the Augur I told you about?"
+
+"Egilleif."
+
+"Dead. Butchered. Her son sent the missive in her stead. He wishes luck but doesn't possess his mother's gift."
 
 "Have you any idea where your son may be?"
 
