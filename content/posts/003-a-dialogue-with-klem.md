@@ -53,7 +53,7 @@ Klem barked with laughter.
 
 "What about you, Klem? With the place on lockdown, you and your birds are about the only thread we have to the other islands. It seems likely this thief would try to contact an accomplice."{{% marginnote "mn-example" %}}_Compel (+heart, +bond): weak hit_{{% /marginnote%}}
 
-The unspoken question brings the conversation to a standstill.
+The unspoken question brought the conversation to a standstill.
 
 "Alright. If we can put an end to this, I'll do it. But I want you to do something too."{{% marginnote "mn-example" %}}_Oracle (action: 37—hunt; theme: 4—ally)_{{% /marginnote%}}
 
