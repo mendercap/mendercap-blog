@@ -47,14 +47,14 @@ Klem barked with laughter.
 
 "A seamstress's son, soon to be our king. Listen, if you want off this island, visit the docks and start talking to the people. There should be more than a few souls willing to brave an escape before Traevor starves us all."
 
-"What about you, Klem? With the place on lockdown, you and your birds are about the only thread we have to the other islands. It seems likely this thief would try to contact an accomplice."{{% marginnote "mn-example" %}}_Compel (heart, bond): weak hit_{{% /marginnote%}}
+"What about you, Klem? With the place on lockdown, you and your birds are about the only thread we have to the other islands. It seems likely this thief would try to contact an accomplice."{{% marginnote "mn-example" %}}_Compel (+heart, +bond): weak hit_{{% /marginnote%}}
 
 The unspoken question brings the conversation to a standstill.
 
-"Alright. If we can put an end to this, I'll do it. But I want you to do something too."{{% marginnote "mn-example" %}}_Oracle (37 action, 4 theme): hunt, ally_{{% /marginnote%}}
+"Alright. If we can put an end to this, I'll do it. But I want you to do something too."{{% marginnote "mn-example" %}}_Oracle (action: 37—hunt; theme: 4—ally)_{{% /marginnote%}}
 
 "Sure, ask away."
 
 "Someone's been stealing my ravens. For the past three days, I've woken up to another bird missing from its cage. Help me stop this while I still have a business to run."
 
-"I'll catch your thief, and you catch mine. It's a deal."
+"I'll catch your thief, and you catch mine."
