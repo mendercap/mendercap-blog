@@ -25,7 +25,9 @@ The following is an excerpt from the dialogue between Mosul and Klem, the raven 
 
 "And you've come to ask if I know of another?"
 
-I nodded. Klem looked away. His eyes settled on his ravens.{{% marginnote "mn-example" %}}_Swear an iron vow (formidable): I will find another Augur, weak hit_{{% /marginnote%}}
+I nodded.
+
+Klem looked away. His eyes settled on his ravens.{{% marginnote "mn-example" %}}_Swear an iron vow (formidable): I will find another Augur, weak hit_{{% /marginnote%}}
 
 "I do, but he lives off the island."
 
