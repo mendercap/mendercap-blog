@@ -31,9 +31,9 @@ I nodded. Klem looked away.{{% marginnote "mn-example" %}}_Swear an iron vow (fo
 
 "So I'll find a boat."
 
-"Tell me, how much do you know about Traevor?"
+"Tell me, how much do you know about the lord of this island?"
 
-"The lord? His housecarls swagger around like the morning after a spring festival. Is he your Augur?"
+"Traevor? His housecarls swagger around like the morning after a spring festival. Is he your Augur?"
 
 "No. Like I said, this man, Kanno, doesn't live in Fargrave. But to reach him, you'd have to leave the island. Lord Traevor's ordered all ships remain on this island until a certain trinket of his turns up. Preferrably together with the head of its thief."
 
